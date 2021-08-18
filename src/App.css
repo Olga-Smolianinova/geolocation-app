@@ -1,10 +1,21 @@
 .App {
-  position: relative;
-  top: 93px;
+  margin-top: 73px;
+  margin-bottom: 73px;
   max-width: 671px;
-  min-height: 745px;
+  min-height: 545px;
+  /* min-height: 70vh; */
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+
+  font-family: Roboto;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+
   background-color: #014e6c;
+}
+.error-msg {
+  text-align: center;
+  color: #adbfc7;
 }

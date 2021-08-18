@@ -6,18 +6,13 @@ html {
 *::before,
 *::after {
   box-sizing: inherit;
-  outline: 1px solid tomato;
+  /* outline: 1px solid tomato; */
 }
 
 body {
   /* width: 1591px; */
 
   margin: 0;
-
-  font-family: Roboto;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 1.17;
 
   color: #ffffff;
 

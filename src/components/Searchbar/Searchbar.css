@@ -29,8 +29,9 @@
 }
 
 .SearchForm-input::placeholder {
-  font-size: 18px;
+  font-size: 25px;
   text-align: center;
+  color: #353535;
 }
 .SearchForm-button {
   display: inline-block;
@@ -44,5 +45,6 @@
 }
 
 .SearchForm-button-label {
+  font-size: 16px;
   color: #ffffff;
 }
