@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/geolocation-app/static/css/main.081728c4.chunk.css",
+    "main.js": "/geolocation-app/static/js/main.cc17e469.chunk.js",
+    "main.js.map": "/geolocation-app/static/js/main.cc17e469.chunk.js.map",
+    "runtime-main.js": "/geolocation-app/static/js/runtime-main.d1b18922.js",
+    "runtime-main.js.map": "/geolocation-app/static/js/runtime-main.d1b18922.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/geolocation-app/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.4c7b44cb.chunk.js": "/geolocation-app/static/js/2.4c7b44cb.chunk.js",
+    "static/js/2.4c7b44cb.chunk.js.map": "/geolocation-app/static/js/2.4c7b44cb.chunk.js.map",
+    "index.html": "/geolocation-app/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/geolocation-app/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.081728c4.chunk.css.map": "/geolocation-app/static/css/main.081728c4.chunk.css.map",
+    "static/js/2.4c7b44cb.chunk.js.LICENSE.txt": "/geolocation-app/static/js/2.4c7b44cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/geolocation-app/static/media/image.6e5036f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b18922.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.4c7b44cb.chunk.js",
+    "static/css/main.081728c4.chunk.css",
+    "static/js/main.cc17e469.chunk.js"
+  ]
+}
